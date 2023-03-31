@@ -60,9 +60,9 @@
 <!-- Features -->
 
 ### Live Demo
-Here is our [Project Demonstration](https://www.loom.com/share/94120d61fa5749a68a7872d2721e61fc) video
+Here is our [Project Demonstration](#) 
 
-Here is our [Project path](https://mymoneyfrenew.onrender.com/)
+Here is our [Project path](https://github.com/frnega/hello-react-front-end)
 
 
 ### Key Features <a name="key-features"></a>
@@ -83,7 +83,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd PATH
-  git clone https://github.com/frnega/Budget-app
+  git clone https://github.com/frnega/hello-react-front-end
 ```
 
 ### Install
@@ -91,8 +91,8 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd Recipe-app
-  gem install
+  cd hello-react-front-end
+  npm install
 ```
 
 ### Usage
@@ -100,7 +100,7 @@ Install this project with:
 To run the project, execute the following command:
 
 ```sh
-  rails server
+  npm start
 ```
 
 ### Run tests
