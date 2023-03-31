@@ -22,7 +22,6 @@ const Greeting = () => {
   if (greetingsStatus === 'succeeded') {
     content = (
       <p>
-        <h1>Randome message generated on the console</h1>
         { greeting.greetings.content }
       </p>
     );
