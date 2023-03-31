@@ -22,6 +22,7 @@ const Greeting = () => {
   if (greetingsStatus === 'succeeded') {
     content = (
       <p>
+        <h1>Randome message generated</h1>
         { greeting.greetings.content }
       </p>
     );
