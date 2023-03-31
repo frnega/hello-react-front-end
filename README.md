@@ -164,7 +164,6 @@ I would like to thank Gregoire Vella whose design was used for this project.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
-
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./licence) licensed.
