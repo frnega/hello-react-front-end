@@ -14,7 +14,7 @@ const initialState = {
 export const fetchGreetings = createAsyncThunk(
   'greetings/fetchGreetings',
   async () => {
-    const response = await axios.get('messages/random');
+    const response = await axios.get('messages/random_greeting');
     return response.data;
   },
 );
